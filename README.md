@@ -26,6 +26,9 @@ Schon fertig? Beantworten Sie diese Fragen:
 ## .gitignore-Datei erstellen
 - Um eine Gitignore-Datei zu erstellen, legst du eine Textdatei mit dem Namen .gitignore im Hauptverzeichnis deines Git-Repositorys an
 
+## Wann sollte ein commit durchgeführt werden und was macht einen "guten" aus
+- `Wann?` Wenn große Änderungen am vorgenommen werden die vom letzten commit abweichen 
+- `was macht eine gute commit message aus?` Informierend über die Änderungen, möglichst kurz und verständlich
 
 
 
