@@ -23,6 +23,12 @@ Schon fertig? Beantworten Sie diese Fragen:
 - `git rebase` mehere commits schnell zusammen fügen
 - `git branch` erstellt eine Verbindung zwischen zwei punkten
 
+## .gitignore-Datei erstellen
+- Um eine Gitignore-Datei zu erstellen, legst du eine Textdatei mit dem Namen .gitignore im Hauptverzeichnis deines Git-Repositorys an
+
+## Wann sollte ein commit durchgeführt werden und was macht einen "guten" aus
+- `Wann?` Wenn große Änderungen am vorgenommen werden die vom letzten commit abweichen 
+- `was macht eine gute commit message aus?` Informierend über die Änderungen, möglichst kurz und verständlich
 
 ## Wann sollte ein Commit durchgeführt werden? Was macht eine "gute" Commit-Message aus? 
 - `Ein commit sollte durchgeführt werden wenn man eine Änderung im lokalen repository durchführen möchte. Eine gute Commit Message beschreibt den commit so gut wie möglich und übersichtlich`
