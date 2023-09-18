@@ -17,7 +17,13 @@ Schon fertig? Beantworten Sie diese Fragen:
 
 ## git-Befehle
 - `git clone <url>` kopiert ein vorhandes Repository von einer url auf die Festplatte
-- `git push` ...
-- `git pull` ...
+- `git push` schiebt Änderungen auf das repository hoch
+- `git pull` du ziehst dir daten vom repository runter
+- `git commit` erstellt einen neuen punkt 
+- `git fetch` download von anderen repositorys
+- `git merge` fügt mehrere branches zusammen
+- `git rebase` mehere commits schnell zusammen fügen
+- `git branch` erstellt eine Verbindung zwischen zwei punkten
+
 
 
