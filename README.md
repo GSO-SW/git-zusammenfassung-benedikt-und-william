@@ -24,5 +24,10 @@ Schon fertig? Beantworten Sie diese Fragen:
 - `git branch` erstellt eine Verbindung zwischen zwei punkten
 
 
+## Wann sollte ein Commit durchgeführt werden? Was macht eine "gute" Commit-Message aus? 
+- `Ein commit sollte durchgeführt werden wenn man eine Änderung im lokalen repository durchführen möchte. Eine gute Commit Message beschreibt den commit so gut wie möglich und übersichtlich`
+
+
+
 
 
