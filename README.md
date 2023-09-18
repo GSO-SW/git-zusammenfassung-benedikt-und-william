@@ -22,6 +22,8 @@ Schon fertig? Beantworten Sie diese Fragen:
 - `git merge` fügt mehrere branches zusammen / Fügt zwei commits zusammen
 - `git rebase` mehere commits schnell zusammen fügen
 - `git branch` erstellt eine Verbindung zwischen zwei punkten
+- `git reset` lokale Änderungen auf den Stand eines bestimmmten Git Repositorys zurücksetzten
+
 
 ## .gitignore-Datei erstellen
 - Um eine Gitignore-Datei zu erstellen, legst du eine Textdatei mit dem Namen .gitignore im Hauptverzeichnis deines Git-Repositorys an
