@@ -23,6 +23,9 @@ Schon fertig? Beantworten Sie diese Fragen:
 - `git rebase` mehere commits schnell zusammen fügen
 - `git branch` erstellt eine Verbindung zwischen zwei punkten
 
+## .gitignore-Datei erstellen
+- Um eine Gitignore-Datei zu erstellen, legst du eine Textdatei mit dem Namen .gitignore im Hauptverzeichnis deines Git-Repositorys an
+
 
 
 
