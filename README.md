@@ -22,6 +22,11 @@ Schon fertig? Beantworten Sie diese Fragen:
 - `git merge` fügt mehrere branches zusammen / Fügt zwei commits zusammen
 - `git rebase` mehere commits schnell zusammen fügen
 - `git branch` erstellt eine Verbindung zwischen zwei punkten
+- `git check-pick` Wird benutzt um einen einzelnen commit zu picken und diesen in einem commit zuverewigen
+- `git add` fügt die bevorstehenden Änderungen in die staging area
+- `git revert` macht den letzten commit Rückgängig
+- `git reset` Setzt den commit auf einen anderen commit zurück
+
 
 ## .gitignore-Datei erstellen
 - Um eine Gitignore-Datei zu erstellen, legst du eine Textdatei mit dem Namen .gitignore im Hauptverzeichnis deines Git-Repositorys an
